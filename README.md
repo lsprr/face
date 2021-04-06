@@ -9,6 +9,7 @@
 
 * [About The Project](#about-the-project)
   * [Built With](#built-with)
+* [Demo](#demo)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [License](#license)
@@ -21,6 +22,9 @@
 * JavaScript ES6
 * [Face API](https://github.com/justadudewhohacks/face-api.js/)
 * CSS
+
+### Demo
+![Demo](demo/face.gif)
 
 ## Getting Started
 
